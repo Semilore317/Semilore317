@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning advanced Python and SQL for advanced Data Analysis
-- 🔭 My toolbelt spans across HTML, CSS, Javascript, React, Python and SQL.
+- 🔭 My toolbelt spans across HTML, CSS, Javascript,Python,SQL & Java.
 - I'm currently studying Computer Science at the University Of Ibadan, The Premier University in Nigeria
 
 # How to reach me:
