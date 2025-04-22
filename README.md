@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning advanced Python and SQL for advanced Data Analysis
+# - 🌱 I’m currently learning advanced Python and SQL for advanced Data Analysis
 - 🔭 My toolbelt spans across HTML, CSS, Javascript, Typescript, ReactJS, TailwindCSS, Sass,Python,SQL & Java.
 - I'm currently studying Computer Science at the University Of Ibadan, The Premier University in Nigeria
 
