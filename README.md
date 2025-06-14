@@ -1,5 +1,5 @@
 ## Hi there 👋
-# - Hi, I'm Abraham 
+# - Hi, I'm Abraham Bankole
 -  I'm a passionate developer who loves solving real-world problems through technology. I'm especially drawn to building responsive and efficient web applications, with a strong focus on clean design and user experience.
 - 🌱 I’m currently learning advanced Java for Backend Development with SpringBoot
 - 🔭 My toolbelt spans across HTML, CSS, Javascript, Typescript, ReactJS, TailwindCSS, Sass,Python,SQL & Java.
@@ -10,8 +10,8 @@ I enjoy breaking down complex ideas and translating them into practical, working
 
 Whether it’s optimizing a UI, structuring scalable components, or learning a new framework, I’m always eager to explore how technology can be used to create meaningful, lasting impact.
 
-
-# How to reach me:
+## 🌐 Connect with me
+- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Semilore17/)
 - ## X - https://twitter.com/Bankole317
 - ## LinkedIn - https://linkedin.com/in/bankole-oluwasemilore
 - ## Telegram - https://t.me/Semilore317
