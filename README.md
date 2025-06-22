@@ -1,33 +1,20 @@
-## Hi there 👋
-# - Hi, I'm Abraham Bankole
--  I'm a passionate developer who loves solving real-world problems through technology. I'm especially drawn to building responsive and efficient web applications, with a strong focus on clean design and user experience.
-- 🌱 I’m currently learning advanced Java for Backend Development with SpringBoot
-- 🔭 My toolbelt spans across HTML, CSS, Javascript, Typescript, ReactJS, TailwindCSS, Sass,Python,SQL & Java.
-- I'm currently studying Computer Science at the University Of Ibadan, The Premier University in Nigeria
+<h1 align="center">Hi 👋, I'm Abraham Bankole</h1>
+<h3 align="center">I'm a passionate developer who loves solving real-world problems through technology. I'm especially drawn to building responsive and efficient web applications, with a strong focus on clean design and user experience.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=semilore317&label=Profile%20views&color=0e75b6&style=flat" alt="semilore317" /> </p>
 
-I enjoy breaking down complex ideas and translating them into practical, working solutions using tools like **React.js**, **Tailwind CSS**, and now diving into **Java Spring Boot** to round out my backend skills.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abraham_bank0le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abraham_bank0le" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abraham bankole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham bankole" height="30" width="40" /></a>
+<a href="https://instagram.com/semilore_bankole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semilore_bankole" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/semilore17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="semilore17" height="30" width="40" /></a>
+</p>
 
-Whether it’s optimizing a UI, structuring scalable components, or learning a new framework, I’m always eager to explore how technology can be used to create meaningful, lasting impact.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 🌐 Connect with me
-- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Semilore17/)
-- ## X - https://twitter.com/Bankole317
-- ## LinkedIn - https://linkedin.com/in/bankole-oluwasemilore
-- ## Telegram - https://t.me/Semilore317
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=semilore317&show_icons=true&locale=en&layout=compact" alt="semilore317" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semilore317&" alt="semilore317" /></p>
 
-<!--
-**Semilore317/Semilore317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
