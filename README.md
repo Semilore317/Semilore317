@@ -34,5 +34,5 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=semilore317&show_icons=true&locale=en&layout=compact" alt="semilore317" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semilore317&" alt="semilore317" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semilore317&" alt="semilore317" /></p> -->
 
