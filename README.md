@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abraham Bankole</h1>
+<h1 align="center">Hi There!, I'm Abraham Bankole</h1>
 <!-- <h3 align="center">I'm a passionate developer who loves solving real-world problems through technology. I'm especially drawn to building responsive and efficient web applications, with a strong focus on clean design and user experience.</h3> -->
 <h3>I like building stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semilore317&label=Profile%20views&color=0e75b6&style=flat" alt="semilore317" /> </p>
+
+<p>Portfolio Site: abrahambankole.dev</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +35,5 @@
 <!-- Other Platforms -->
 <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=semilore317&show_icons=true&locale=en&layout=compact" alt="semilore317" /></p>
-
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semilore317&" alt="semilore317" /></p> -->
 
