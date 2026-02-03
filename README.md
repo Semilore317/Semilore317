@@ -11,7 +11,7 @@ Currently studying Computer Science at the University of Ibadan..
 
 * **Languages:** Python, Java, JS/TS, C#, SQL
 * **Frontend:** React, Next.js
-* **Backend:** Spring Boot, Hibernate, FastAPI
+* **Backend:** Spring Boot, FastAPI
 
 ---
 
