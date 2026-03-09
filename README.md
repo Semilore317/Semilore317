@@ -32,4 +32,5 @@ Currently studying Computer Science at the University of Ibadan..
 
 * **Portfolio**: [**abrahambankole.dev**](https://abrahambankole.dev)
 * [**LinkedIn**](https://linkedin.com/in/abraham-bankole)
-* [**Email**](mailto:abrahambankole.dev)
+* [**Medium**](https://medium.com/@abraham.o.bankole)
+* [**Email**](mailto:abraham.o.bankole)
