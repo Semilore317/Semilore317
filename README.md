@@ -16,15 +16,10 @@ Currently studying Computer Science at the University of Ibadan..
 ---
 
 ### Public repos i'm currently working on:
-
-* **[Libris](https://github.com/Semilore317/libris)**
-    * A robust Library Management System built with **Java** and **Spring Boot**.
 * **[RuneStone Bank](https://github.com/Semilore317/runestone-bank)**
     * A simulated core banking backend handling transactions and database migrations.
 * **[unpacker](https://github.com/Semilore317/unpacker)**
     * A cross-platform desktop utility for installing software from tarballs on Linux, built with **C#** and **Avalonia**.
-* **[Stride](https://github.com/Semilore317/stride)**
-    * A robust demo E-commerce platform.
 
 ---
 
@@ -33,4 +28,4 @@ Currently studying Computer Science at the University of Ibadan..
 * **Portfolio**: [**abrahambankole.dev**](https://abrahambankole.dev)
 * [**LinkedIn**](https://linkedin.com/in/abraham-bankole)
 * [**Medium**](https://medium.com/@abraham.o.bankole)
-* [**Email**](mailto:abraham.o.bankole)
+* [**Email**](mailto:abraham.o.bankole@gmail.com)
