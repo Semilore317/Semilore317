@@ -9,9 +9,9 @@ Currently studying Computer Science at the University of Ibadan..
 
 ### Tech Stack
 
-* **Languages:** Python, Java, JS/TS, C#, SQL
+* **Languages:** Python, Java, Kotlin JS/TS, C#.
 * **Frontend:** React, Next.js
-* **Backend:** Spring Boot, Python
+* **Backend:** Spring Boot, FastAPI
 
 ---
 
