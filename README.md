@@ -1,6 +1,6 @@
 # Abraham Bankole
 
-**Software Engineer| Fullstack Dev | Linux Enthusiast**
+**Software Engineer| CS Major | Linux Enthusiast**
 
 I like building stuff. 
 Currently studying Computer Science at the University of Ibadan..
@@ -9,9 +9,9 @@ Currently studying Computer Science at the University of Ibadan..
 
 ### Tech Stack
 
-* **Languages:** Python, Java, Kotlin JS/TS, C#.
-* **Frontend:** React, Next.js
-* **Backend:** Spring Boot, FastAPI
+* **Languages:** Java, Python, Kotlin JS/TS, C#.
+* **Frontend:** React, Angular, Next.js
+* **Backend:** Spring Boot, FastAPI, Express
 
 ---
 
