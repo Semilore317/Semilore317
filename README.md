@@ -13,6 +13,7 @@ Currently studying Computer Science at the University of Ibadan..
 * **Frontend:** React, Angular, Next.js
 * **Backend:** Spring Boot, FastAPI, Express
 
+<!--
 <section>
   <h2> Some Tools i've worked with...</h2>
 
@@ -21,7 +22,7 @@ Currently studying Computer Science at the University of Ibadan..
   </a>
   
 </section>
----
+-->
 
 ### Public repos i'm currently working on:
 * **[RuneStone Bank](https://github.com/Semilore317/runestone-bank)**
