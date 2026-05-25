@@ -17,7 +17,7 @@ Currently studying Computer Science at the University of Ibadan..
   <h2> Some Tools i've worked with...</h2>
 
   <a href="https://github.com/Semilore317">
-   <img src="https://skillicons.dev/icons?i=java,spring,kotlin,ktor,maven,gradle,postgres,docker,kafka,aws,azure,linux,arch,debian,neovim,py,fastapi,cs,js,ts,react,tailwind,nodejs,angular&perline=8" alt="My Skills" />
+   <img src="https://skillicons.dev/icons?i=java,py,kotlin,ts,js,cs,spring,ktor,maven,gradle,hibernate,postgres,docker,npm,kafka,aws,azure,linux,sass,fastapi,react,tailwind,nodejs,angular&perline=8" alt="My Skills" />
   </a>
   
 </section>
