@@ -1,39 +1,36 @@
 # Abraham Bankole
+**Backend Software Engineer | CS Major | Linux Enthusiast**
 
-**Software Engineer| CS Major | Linux Enthusiast**
+I like building stuff, mostly backend systems.
 
-I like building stuff. 
-Currently studying Computer Science at the University of Ibadan..
+Currently studying Computer Science at the University of Ibadan (expected 2028).
 
 ---
-
 ### Tech Stack
-
-* **Languages:** Java, Python, Kotlin JS/TS, C#.
-* **Frontend:** React, Angular, Next.js
-* **Backend:** Spring Boot, FastAPI, Express
-
+* **Languages:** Java, Kotlin, C#, TypeScript, Python
+* **Backend:** Spring Boot 
+* **Data:** PostgreSQL, Kafka, Debezium, Neo4j/Memgraph, Flyway/Liquibase
+* **Infra:** Docker, Azure, AWS
 <!--
 <section>
-  <h2> Some Tools i've worked with...</h2>
-
+  <h2>Some tools i've worked with...</h2>
   <a href="https://github.com/Semilore317">
-   <img src="https://skillicons.dev/icons?i=java,py,kotlin,ts,js,cs,spring,ktor,maven,gradle,hibernate,postgres,docker,npm,kafka,aws,azure,linux,sass,fastapi,react,tailwind,nodejs,angular&perline=8" alt="My Skills" />
+   <img src="https://skillicons.dev/icons?i=java,py,kotlin,ts,js,cs,spring,dotnet,ktor,maven,gradle,hibernate,postgres,docker,npm,kafka,aws,azure,linux,neo4j,fastapi,react,nodejs&perline=8" alt="My Skills" />
   </a>
-  
 </section>
 -->
 
 ### Public repos i'm currently working on:
 * **[RuneStone Bank](https://github.com/Semilore317/runestone-bank)**
-    * A simulated core banking backend handling transactions and database migrations.
-* **[unpacker](https://github.com/Semilore317/unpacker)**
-    * A cross-platform desktop utility for installing software from tarballs on Linux, built with **C#** and **Avalonia**.
+    * A simulated core banking backend with event-driven architecture; Kafka, Debezium CDC off Postgres WAL, and Liquibase migrations.
+* **[Trading Engine Server](https://github.com/Semilore317/TradingEngineServer) & Backtester** *(in progress)*
+    * A C#/.NET matching engine with a REST/WebSocket gateway and extended order types, paired with a backtester reporting PnL, Sharpe ratio, and drawdown.
+* **[Rosetta](https://github.com/Semilore317/Rosetta)**
+    * A compiler-style NLP parser for Yoruba.
 
 ---
 
 ### 🌐 Connect
-
 * **Portfolio**: [**abrahambankole.dev**](https://abrahambankole.dev)
 * [**LinkedIn**](https://linkedin.com/in/abraham-bankole)
 * [**Medium**](https://medium.com/@abraham.o.bankole)
