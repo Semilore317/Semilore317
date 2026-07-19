@@ -23,8 +23,8 @@ Currently studying Computer Science at the University of Ibadan (expected 2028).
 ### Public repos i'm currently working on:
 * **[RuneStone Bank](https://github.com/Semilore317/runestone-bank)**
     * A simulated core banking backend with event-driven architecture; Kafka, Debezium CDC off Postgres WAL, and Liquibase migrations.
-* **[Trading Engine Server](https://github.com/Semilore317/TradingEngineServer) & Backtester** *(in progress)*
-    * A C#/.NET matching engine with a REST/WebSocket gateway and extended order types, paired with a backtester reporting PnL, Sharpe ratio, and drawdown.
+* **[Valkyrie](https://github.com/Semilore317/Valkyrie)** *(in progress)*
+    * A C#/.NET Limit Order Book and matching engine with a REST/WebSocket gateway and extended order types.
 * **[Rosetta](https://github.com/Semilore317/Rosetta)**
     * A compiler-style NLP parser for Yoruba.
 
