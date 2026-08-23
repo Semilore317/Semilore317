@@ -27,16 +27,12 @@ Currently studying Computer Science at the University of Ibadan (expected 2028).
 
 * **[RuneStone Bank](https://github.com/Semilore317/runestone-bank)**
     * A simulated core banking backend with event-driven architecture, Kafka, Debezium CDC off PostgreSQL WAL, and Liquibase migrations.
-
 * **[Valkyrie](https://github.com/Semilore317/Valkyrie-dotnet)**
     * A C#/.NET limit order book and matching engine supporting FIFO and Pro-Rata matching, with REST and WebSocket interfaces.
-
-* **[Skoll](https://github.com/Semilore317/skoll-cpp)**
+* **[Sköll](https://github.com/Semilore317/skoll-cpp)**
     * A C++20 participant-side trading client for Valkyrie, with typed market-data decoding, WebSocket ingestion, and market-data capture tooling.
-
 * **[Rosetta](https://github.com/Semilore317/Rosetta)**
     * A compiler-style NLP parser for Yoruba.
-a
 ---
 
 ### Connect
