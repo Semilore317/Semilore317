@@ -42,4 +42,4 @@ Currently studying Computer Science at the University of Ibadan (expected 2028).
 * **Portfolio:** [abrahambankole.dev](https://abrahambankole.dev)
 * **LinkedIn:** [linkedin.com/in/abraham-bankole](https://linkedin.com/in/abraham-bankole)
 * **Medium:** [medium.com/@abraham.o.bankole](https://medium.com/@abraham.o.bankole)
-* **Email:** [abraham.o.bankole@gmail.com](mailto:abraham.oluwasemilore.bankole@gmail.com)
+* **Email:** [abraham.oluwasemilore.bankole@gmail.com](mailto:abraham.oluwasemilore.bankole@gmail.com)
